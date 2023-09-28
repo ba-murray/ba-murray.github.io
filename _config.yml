@@ -1,14 +1,18 @@
 title: Braden Murray # your name (or website title) here
 logo: "bmurr_pic.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <p align="center">
+  <a href="pdf/B.Murray.Resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/brady-murray-703bab274"">LinkedIn</a> |
+  <a href="https://github.com/ba-murray">GitHub</a>
+  </p>
+  
+  <p align="justify">
   Data Analyst with two years of experience. 
   MSc in Data Analytics/ Business Intelligence. 
   Former Professional Hockey Player.
-  <br><br>
-  View Full Resume  
-  <a href="www.linkedin.com/in/brady-murray-703bab274">View My LinkedIn Profile</a> 
-  
+  </p>
 remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+# plugins:
+# - jekyll-remote-theme
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
