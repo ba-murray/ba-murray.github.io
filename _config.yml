@@ -1,10 +1,11 @@
 title: Braden Murray # your name (or website title) here
 logo: "bmurr_pic.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Analyst with two years of experience. 
+  MSc in Data Analytics/ Business Intelligence.
+  Former Professional Hockey Player.
   <br><br>
-  Second description 
-  <br><br>
+  View Full Resume
   <a href="www.linkedin.com/in/brady-murray-703bab274">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
