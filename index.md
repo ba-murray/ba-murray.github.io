@@ -23,11 +23,11 @@
 ---
 
 **Data Analyst @ Perfect World Training**  
-(Feb 2020 - Sep 2021 · 1 yr 8 mos)
+#####(Feb 2020 - Sep 2021 · 1 yr 8 mos)
 <br>
 
 **Professional Hockey Player @ Various Teams**   
-(2005 - 2017 · 12 yrs)
+#####(2005 - 2017 · 12 yrs)
 
 
 <br>
