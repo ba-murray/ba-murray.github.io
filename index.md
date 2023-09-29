@@ -3,7 +3,7 @@
 # Portfolio
 ---
 #### Technical Skills: Python, SQL, Excel, Tableau, PowerBI
-<br>
+
 
 ## Education 
 ---
