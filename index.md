@@ -14,9 +14,7 @@
 ##### Saint Mary's University of Minnesota
 **B.S. Psychology**
 ##### University of North Dakota
-
-<br>
-
+---
 ## Experience
 ---
 
