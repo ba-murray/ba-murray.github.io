@@ -1,4 +1,4 @@
-# Data Analyst
+# Portfolio
 ---
 #### Technical Skills: Python, SQL, Excel, Tableau, PowerBI
 <br>
@@ -6,15 +6,11 @@
 ## Education 
 ---
 
-**Msc Data Analytics/ Business Intelligence**
+**M.Sc. Data Analytics/ Business Intelligence**
 ##### Saint Mary's University of Minnesota 
-<br>
-
-**Graduate Certificate Artificial Intelligence**
+**CGS Artificial Intelligence**
 ##### Saint Mary's University of Minnesota
-<br>
-
-**BS Psychology**
+**B.S. Psychology**
 ##### University of North Dakota
 
 <br>
@@ -24,8 +20,6 @@
 
 **Data Analyst @ Perfect World Training**  
 ##### (Feb 2020 - Sep 2021 · 1 yr 8 mos)
-<br>
-
 **Professional Hockey Player @ Various Teams**   
 ##### (2005 - 2017 · 12 yrs)
 
@@ -38,13 +32,9 @@
 **Python for Artificial Intelligence**
 ##### Saint Mary's University of Minnesota
 ##### Issued Apr 2023
-<br>
-
 **Data Engineering for AI**
 ##### Saint Mary's University of Minnesota
 ##### Issued Sep 2022
-<br>
-
 **Data Analysis and Business Modeling in AI**
 ##### Saint Mary's University of Minnesota
 ##### Issued May 2022
