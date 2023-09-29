@@ -27,14 +27,11 @@
 ---
 
 **Python for Artificial Intelligence**
-##### Saint Mary's University of Minnesota
-##### Issued Apr 2023
+##### Saint Mary's University of Minnesota | Issued Apr 2023
 **Data Engineering for AI**
-##### Saint Mary's University of Minnesota
-##### Issued Sep 2022
+##### Saint Mary's University of Minnesota | Issued Sep 2022
 **Data Analysis and Business Modeling in AI**
-##### Saint Mary's University of Minnesota
-##### Issued May 2022
+##### Saint Mary's University of Minnesota | Issued May 2022
 
 ---
 ## Data Science Projects
