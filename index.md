@@ -3,8 +3,7 @@
 # Portfolio
 ---
 #### Technical Skills: Python, SQL, Excel, Tableau, PowerBI
-
-
+---
 ## Education 
 ---
 
@@ -23,9 +22,7 @@
 **Professional Hockey Player @ Various Teams**   
 ##### (2005 - 2017 · 12 yrs)
 
-
-<br>
-
+---
 ## Certifications & Licenses
 ---
 
@@ -39,8 +36,7 @@
 ##### Saint Mary's University of Minnesota
 ##### Issued May 2022
 
-<br>
-
+---
 ## Data Science Projects
 ---
 <br>
