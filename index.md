@@ -40,8 +40,8 @@
 
 
 - [**Vehicle Collision Fatalities EDA**]
-- [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://ba-murray.github.io/Car_Fatality_Analysis.ipynb)
-- [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Car_Fatality_Analysis.ipynb)
+- [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://ba-murray.github.io/Car_Fatality_Analysis.html)
+- [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Car_Fatality_Analysis.html)
 <div style="text-align: justify">In this project I am going to perform a simple EDA with python on the Vehicle Collision Fatalities dataset. I have also outlined the next steps for a stronger analysis. </div>
 ---
 
