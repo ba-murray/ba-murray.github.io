@@ -36,12 +36,15 @@
 ---
 ## Data Science Projects
 ---
+**Predicting Reservation Cancellations**
 
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Predicting_Cancelations.html)
+<div style="text-align: justify">Free cancellation policies have resulted in an increase in cancellation and rebooking activity as rates are slashed to secure occupancy. Hotels with low occupancy rates are particularly vulnerable to the change in the consumer. Data shows that higher guest engagement and personalization may result in lower cancellation and rebooking rates. In this project I will perform a comprehensive EDA and will build models to predict the probability that a guest will cancel their reservation. </div>
 
-
+---
 **Vehicle Collision Fatalities EDA**
 
-- [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Car_Fatality_Analysis.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Car_Fatality_Analysis.html)
 <div style="text-align: justify">In this project I am going to perform a simple EDA with python on the Vehicle Collision Fatalities dataset. I have also outlined the next steps for a stronger analysis. </div>
 ---
 
