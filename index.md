@@ -50,7 +50,7 @@
 
 **Weather Station Dashboard**
 
-[![Open Notebook](https://img.shields.io/badge/Excel-Open_Workbook-blue?logo=excel)](Weather_Dash.pdf)
+[![Open Notebook](https://img.shields.io/badge/Excel-Open_Workbook-blue?logo=excel)](weather_dash.pdf)
 
 <div style="text-align: justify">I built a weather dashboard from historical data to help predict precipitation and temperature in the summer months. I collected data from various weather stations from the NOAA API. The data was in JSON and was uploaded, cleaned and manipulated with Excel. The dashboard was created in Excel.</div>
 
