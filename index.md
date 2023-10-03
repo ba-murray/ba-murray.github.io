@@ -36,23 +36,34 @@
 ---
 ## Data Science Projects
 ---
+
+**Supervised Learning**
 **Predicting Reservation Cancellations**
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Predicting_Cancelations.html)
-<div style="text-align: justify">Free cancellation policies have resulted in an increase in cancellation and rebooking activity as rates are slashed to secure occupancy. Hotels with low occupancy rates are particularly vulnerable to the change in the consumer. Data shows that higher guest engagement and personalization may result in lower cancellation and rebooking rates. In this project I will perform a comprehensive EDA and will build models to predict the probability that a guest will cancel their reservation. </div>
+<div style="text-align: justify">Free cancellation policies have resulted in an increase in cancellation and rebooking activity as rates are slashed to secure occupancy. Hotels with low occupancy rates are particularly vulnerable to the change in the consumer. Data shows that higher guest engagement and personalization may result in lower cancellation and rebooking rates. In this project I will perform a comprehensive EDA and will build machine learning models to predict the probability that a guest will cancel their reservation. </div>
 ---
 
+**Python EDA**
 **Vehicle Collision Fatalities EDA**
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Car_Fatality_Analysis.html)
 <div style="text-align: justify">In this project I am going to perform a simple EDA with python on the Vehicle Collision Fatalities dataset. I have also outlined the next steps for a stronger analysis. </div>
 ---
 
+**Excel**
 **Weather Station Dashboard**
 
 [![Open Notebook](https://img.shields.io/badge/Excel-Open_Outline-blue?logo=excel)](Weather_Dash.pdf)      [![Open Notebook](https://img.shields.io/badge/Excel-Open_Dashboard-blue?logo=excel)](weather_dash.pdf)
 
-<div style="text-align: justify">I built a weather dashboard from historical data to help predict precipitation and temperature in the summer months. I collected data from various weather stations from the NOAA API. The data was in JSON and was uploaded, cleaned and manipulated with Excel. The dashboard was created in Excel.</div>
+<div style="text-align: justify">A dashboard built from historical data to help predict precipitation and temperature during the the growing season. I collected data from various weather stations from the NOAA API. The data was in JSON and was uploaded, cleaned and manipulated with Excel. The dashboard was created in Excel.</div>
+---
+
+**Tableau**
+**Company Revenue Dashboard**
+
+[![Open Notebook](https://img.shields.io/badge/SQL-Open_Outline-black?logo=SQL)](Weather_Dash.pdf)      [![Open Notebook](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)]((https://public.tableau.com/views/RevenueAnalysis_16962967700240/123?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link))
+<div style="text-align: justify">An interactive dashboard showing various business KPI's. The data was manipulated and retrived using SQL and uploaded to Tableau to create visualiations.</div>
 
 
 
