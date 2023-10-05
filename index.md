@@ -71,28 +71,33 @@ Data Cleaning, EDA, Visualization, Transformations, Standardizing, Principal Com
 
 ### Python Cleaning and EDA
 
+**HR Data Analysis**
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Car_Fatality_Analysis.html)
+<br>
 **Vehicle Collision Fatalities EDA**
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Car_Fatality_Analysis.html)
-<div style="text-align: justify">In this project I am going to perform a simple EDA with python on the Vehicle Collision Fatalities dataset. I have also outlined the next steps for a stronger analysis. </div>
+<br>
+**New York Airbnb Analysis**
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Car_Fatality_Analysis.html)
+<br>
+Cleaning, EDA, Visualization
 
 ---
 
-### **Tableau**
+### Tableau
 **Company Revenue Dashboard**
 
 [![Open Notebook](https://img.shields.io/badge/SQL-Open_Outline-black?logo=SQL)](Weather_Dash.pdf)      [![Open Notebook](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)]((https://public.tableau.com/views/RevenueAnalysis_16962967700240/123?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link))
-<div style="text-align: justify">An interactive dashboard showing various business KPI's. The data was manipulated and retrived using SQL and uploaded to Tableau to create visualiations.</div>
+
+An interactive dashboard showing various business KPI's. The data was manipulated and retrived using SQL and uploaded to Tableau to create visualiations.
 
 ---
 
-### **Excel**
+### Excel
 **Weather Station Dashboard**
-
-[![Open Notebook](https://img.shields.io/badge/Excel-Open_Outline-blue?logo=excel)](Weather_Dash.pdf)      [![Open Notebook](https://img.shields.io/badge/Excel-Open_Dashboard-blue?logo=excel)](weather_dash.pdf)
-
-<div style="text-align: justify">A dashboard built from historical data to help predict precipitation and temperature during the the growing season. I collected data from various weather stations from the NOAA API. The data was in JSON and was uploaded, cleaned and manipulated with Excel. The dashboard was created in Excel.</div>
----
 
 
 
