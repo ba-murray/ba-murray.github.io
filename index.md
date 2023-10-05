@@ -36,7 +36,7 @@
 ---
 ## Data Science Projects
 ---
-### **Python**
+
 ### Supervised Learning
 A type of machine learning that uses labeled datasets to train algorithms to classify data or predict outcomes.
 <br><br>
@@ -45,8 +45,9 @@ A type of machine learning that uses labeled datasets to train algorithms to cla
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Predicting_Cancelations.html)
 <br>
 Skills: Data Validation, EDA, Visualization, Logistic Regression, Support Vector Machines, Decision Trees, Random Forest
+<br>
 
-<br><br>
+---
 
 ### Unsupervised Learning
 A type of machine learning that uses algorithms to analyze and cluster unlabeled datasets.
@@ -56,8 +57,9 @@ A type of machine learning that uses algorithms to analyze and cluster unlabeled
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](PCA1.html)
 <br>
 Skills: Data Validation, EDA, Visualization, Standardization, Transformation, Principal Component Analysis 
+<br>
 
-<br><br>
+---
 
 ### Deep Learning
 A type of machine learning based on artificial neural networks. A neural network is a method in artificial intelligence that teaches computers to process data in a way that is inspired by the human brain.
@@ -66,9 +68,10 @@ A type of machine learning based on artificial neural networks. A neural network
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Pred_stroke.html)
 <br>
-Skills: Data Cleaning, EDA, Visualization, Neural Network Architecture
+Skills: Data Validation, EDA, Visualization, Neural Network Architecture
+<br>
 
-<br><br>
+---
 
 ### Data Validation and EDA
 
@@ -84,25 +87,28 @@ Skills: Data Cleaning, EDA, Visualization, Neural Network Architecture
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Car_Fatality_Analysis.html)
 <br>
-Skills:Cleaning, EDA, Visualization
+Skills: Data Validation, EDA, Visualization
+<br>
 
 ---
 
-### Tableau
+### Tableau Visualizations
 **Company Revenue Dashboard**
 
 [![Open Notebook](https://img.shields.io/badge/SQL-Open_Outline-black?logo=SQL)](Weather_Dash.pdf)      [![Open Notebook](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)]((https://public.tableau.com/views/RevenueAnalysis_16962967700240/123?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link))
 
-Summary: An interactive dashboard showing various business KPI's. The data was manipulated and retrived using SQL and uploaded to Tableau to create visualiations.
+Summary: An interactive dashboard showing various business KPI's. The data was manipulated and retrieved using SQL and uploaded to Tableau to create visualiations.
+<br>
 
 ---
 
-### Excel
+### Excel Visualizations
 **Weather Station Dashboard**
 
 [![Open Notebook](https://img.shields.io/badge/Excel-Open_Outline-blue?logo=excel)](Weather_Dash.pdf)      [![Open Notebook](https://img.shields.io/badge/Excel-Open_Dashboard-blue?logo=excel)](weather_dash.pdf)
 
-Summary: A dashboard built from historical data to quickly access precipitation and temperature data from past growing seasons. I collected data from various weather stations through the NOAA API. The data was in JSON and was converted, cleaned and manipulated with Excel. The dashboard was created in Excel.
+Summary: A dashboard built from historical data to quickly access precipitation and temperature data from past growing seasons. Data was collected from various weather stations through the NOAA API. The data had to be converted from JSON and validated/ manipulated with Excel. The dashboard was created in Excel.
+<br>
 
 ---
 
