@@ -43,7 +43,8 @@ A type of machine learning that uses labeled datasets to train algorithms to cla
 **Predicting Reservation Cancellations**
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Predicting_Cancelations.html)
-Python, Data Cleaning, EDA, Visualization, Logistic Regression, Support Vector Machines, Decision Trees, Random Forest
+<br>
+Skills: Data Cleaning, EDA, Visualization, Logistic Regression, Support Vector Machines, Decision Trees, Random Forest
 
 ---
 
@@ -54,7 +55,7 @@ A type of machine learning that uses algorithms to analyze and cluster unlabeled
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](PCA1.html)
 <br>
-Data Cleaning, EDA, Visualization, Standardization, Transformation, Principal Component Analysis 
+Skills: Data Cleaning, EDA, Visualization, Standardization, Transformation, Principal Component Analysis 
 
 ---
 
@@ -65,7 +66,7 @@ A type of machine learning based on artificial neural networks. A neural network
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Pred_stroke.html)
 <br>
-Data Cleaning, EDA, Visualization, Transformations, Standardizing, Principal Components Analysis.
+Skills: Data Cleaning, EDA, Visualization, Neural Network Architecture
 
 ---
 
@@ -83,7 +84,7 @@ Data Cleaning, EDA, Visualization, Transformations, Standardizing, Principal Com
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Car_Fatality_Analysis.html)
 <br>
-Cleaning, EDA, Visualization
+Skills:Cleaning, EDA, Visualization
 
 ---
 
@@ -92,12 +93,18 @@ Cleaning, EDA, Visualization
 
 [![Open Notebook](https://img.shields.io/badge/SQL-Open_Outline-black?logo=SQL)](Weather_Dash.pdf)      [![Open Notebook](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)]((https://public.tableau.com/views/RevenueAnalysis_16962967700240/123?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link))
 
-An interactive dashboard showing various business KPI's. The data was manipulated and retrived using SQL and uploaded to Tableau to create visualiations.
+Summary: An interactive dashboard showing various business KPI's. The data was manipulated and retrived using SQL and uploaded to Tableau to create visualiations.
 
 ---
 
 ### Excel
 **Weather Station Dashboard**
+
+[![Open Notebook](https://img.shields.io/badge/Excel-Open_Outline-blue?logo=excel)](Weather_Dash.pdf)      [![Open Notebook](https://img.shields.io/badge/Excel-Open_Dashboard-blue?logo=excel)](weather_dash.pdf)
+
+Summary: A dashboard built from historical data to quickly access precipitation and temperature data from past growing seasons. I collected data from various weather stations through the NOAA API. The data was in JSON and was converted, cleaned and manipulated with Excel. The dashboard was created in Excel.
+
+---
 
 
 
