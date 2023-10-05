@@ -44,9 +44,9 @@ A type of machine learning that uses labeled datasets to train algorithms to cla
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Predicting_Cancelations.html)
 <br>
-Skills: Data Cleaning, EDA, Visualization, Logistic Regression, Support Vector Machines, Decision Trees, Random Forest
+Skills: Data Validation, EDA, Visualization, Logistic Regression, Support Vector Machines, Decision Trees, Random Forest
 
----
+<br><br>
 
 ### Unsupervised Learning
 A type of machine learning that uses algorithms to analyze and cluster unlabeled datasets.
@@ -55,9 +55,9 @@ A type of machine learning that uses algorithms to analyze and cluster unlabeled
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](PCA1.html)
 <br>
-Skills: Data Cleaning, EDA, Visualization, Standardization, Transformation, Principal Component Analysis 
+Skills: Data Validation, EDA, Visualization, Standardization, Transformation, Principal Component Analysis 
 
----
+<br><br>
 
 ### Deep Learning
 A type of machine learning based on artificial neural networks. A neural network is a method in artificial intelligence that teaches computers to process data in a way that is inspired by the human brain.
@@ -68,9 +68,9 @@ A type of machine learning based on artificial neural networks. A neural network
 <br>
 Skills: Data Cleaning, EDA, Visualization, Neural Network Architecture
 
----
+<br><br>
 
-### Python Cleaning and EDA
+### Data Validation and EDA
 
 **HR Data Analysis**
 
