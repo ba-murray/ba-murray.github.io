@@ -87,7 +87,7 @@ Skills: Data Validation, EDA, Visualization, Neural Network Architecture
 
 **New York Airbnb Analysis**
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](NY Airbnb Rentals.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](NY_Airbnb.html)
 <br>
 Skills: Data Validation, EDA, Visualization
 <br>
