@@ -77,7 +77,7 @@ Skills: Data Validation, EDA, Visualization, Neural Network Architecture
 
 **HR Data Analysis**
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Car_Fatality_Analysis.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](HR_A.html)
 <br>
 **Vehicle Collision Fatalities EDA**
 
