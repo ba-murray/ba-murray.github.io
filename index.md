@@ -113,11 +113,3 @@ Summary: A dashboard built from historical data to quickly access precipitation 
 <br>
 
 ---
-
-
-
-
-
-
-
-
