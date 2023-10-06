@@ -66,7 +66,7 @@ A type of machine learning based on artificial neural networks. A neural network
 <br><br>
 **Predicting Stroke Risk with Basic Neural Networks**
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)]()
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Pred_stroke.html)
 <br>
 Skills: Data Validation, EDA, Visualization, Neural Network Architecture
 <br>
@@ -77,7 +77,7 @@ Skills: Data Validation, EDA, Visualization, Neural Network Architecture
 
 **HR Data Analysis**
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)]()
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](HR_A.html)
 <br><br>
 
 **Vehicle Collision Fatalities EDA**
@@ -87,7 +87,7 @@ Skills: Data Validation, EDA, Visualization, Neural Network Architecture
 
 **New York Airbnb Analysis**
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)]()
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](NY_Airbnb.html)
 <br>
 Skills: Data Validation, EDA, Visualization
 <br>
