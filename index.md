@@ -4,7 +4,7 @@
 ---
 #### Technical Skills: Python, SQL, Excel, Tableau, PowerBI
 ---
-## Education
+## Education 
 ---
 
 **M.Sc. Data Analytics/ Business Intelligence**
