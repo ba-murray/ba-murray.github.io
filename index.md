@@ -79,10 +79,12 @@ Skills: Data Validation, EDA, Visualization, Neural Network Architecture
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](HR_A.html)
 <br>
+
 **Vehicle Collision Fatalities EDA**
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Car_Fatality_Analysis.html)
 <br>
+
 **New York Airbnb Analysis**
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](NY Airbnb Rentals.html)
