@@ -99,7 +99,7 @@ Skills: Data Validation, EDA, Visualization
 
 [![Open](https://img.shields.io/badge/SQL-Open_Notebook-black?logo=SQL)](notebook_mp.html)      [![Open](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)]()
 
-Summary: An interactive dashboard showing various business KPI's. The data was manipulated and retrieved using SQL and uploaded to Tableau to create visualiations.
+Summary: An interactive dashboard showing various business KPI's. The data was manipulated and retrieved using SQL and uploaded to Tableau to create visualizations.
 <br>
 
 ---
