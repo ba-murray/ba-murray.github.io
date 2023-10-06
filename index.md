@@ -66,7 +66,7 @@ A type of machine learning based on artificial neural networks. A neural network
 <br><br>
 **Predicting Stroke Risk with Basic Neural Networks**
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Pred_stroke.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)]()
 <br>
 Skills: Data Validation, EDA, Visualization, Neural Network Architecture
 <br>
@@ -77,7 +77,7 @@ Skills: Data Validation, EDA, Visualization, Neural Network Architecture
 
 **HR Data Analysis**
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](HR_A.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)]()
 <br><br>
 
 **Vehicle Collision Fatalities EDA**
@@ -87,7 +87,7 @@ Skills: Data Validation, EDA, Visualization, Neural Network Architecture
 
 **New York Airbnb Analysis**
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](NY_Airbnb.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)]()
 <br>
 Skills: Data Validation, EDA, Visualization
 <br>
@@ -97,7 +97,7 @@ Skills: Data Validation, EDA, Visualization
 ### Tableau Visualizations
 **Company Revenue Dashboard**
 
-[![Open](https://img.shields.io/badge/SQL-Open_Notebook-black?logo=SQL)](notebook_mp.html)      [![Open](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)](SC.png)
+[![Open](https://img.shields.io/badge/SQL-Open_Notebook-black?logo=SQL)](notebook_mp.html)      [![Open](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)]()
 
 Summary: An interactive dashboard showing various business KPI's. The data was manipulated and retrieved using SQL and uploaded to Tableau to create visualiations.
 <br>
