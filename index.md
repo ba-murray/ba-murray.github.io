@@ -85,7 +85,7 @@ Skills: Data Validation, EDA, Visualization, Neural Network Architecture
 <br>
 **New York Airbnb Analysis**
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Car_Fatality_Analysis.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](NY Airbnb Rentals.html)
 <br>
 Skills: Data Validation, EDA, Visualization
 <br>
@@ -95,7 +95,7 @@ Skills: Data Validation, EDA, Visualization
 ### Tableau Visualizations
 **Company Revenue Dashboard**
 
-[![Open Notebook](https://img.shields.io/badge/SQL-Open_Outline-black?logo=SQL)](Weather_Dash.pdf)      [![Open Notebook](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)]((https://public.tableau.com/views/RevenueAnalysis_16962967700240/123?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link))
+[![Open](https://img.shields.io/badge/SQL-Open_Outline-black?logo=SQL)](Weather_Dash.pdf)      [![Open](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)](Screen Shot 2023-10-05 at 7.58.38 PM.png)
 
 Summary: An interactive dashboard showing various business KPI's. The data was manipulated and retrieved using SQL and uploaded to Tableau to create visualiations.
 <br>
