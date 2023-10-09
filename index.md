@@ -114,7 +114,9 @@ Summary: A dashboard built from historical data to quickly access precipitation 
 
 ---
 
-### SQL Skill-based projects
+### SQL 
+**Small projects demonstrating specific SQL skills**
+
 [![Open](https://img.shields.io/badge/SQL-Open_Notebook-blue?logo=postgresql)](/sql/SQL_SP.html) [![Open](https://img.shields.io/badge/SQL-Open_Notebook-blue?logo=postgresql)](/sql/SQL_Carbon.html) [![Open](https://img.shields.io/badge/SQL-Open_Notebook-blue?logo=postgresql)](/sql/SQL_bank.html) [![Open](https://img.shields.io/badge/SQL-Open_Notebook-blue?logo=postgresql)](/sql/notebook_mp.html)
 <br>
 
