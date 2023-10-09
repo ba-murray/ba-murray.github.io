@@ -11,7 +11,7 @@
 ##### Saint Mary's University of Minnesota 
 **CGS Artificial Intelligence**
 ##### Saint Mary's University of Minnesota
-**B.S. Psychology**
+**B.A. Psychology**
 ##### University of North Dakota
 ---
 ## Experience
