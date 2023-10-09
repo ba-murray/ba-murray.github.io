@@ -42,7 +42,7 @@ A type of machine learning that uses labeled datasets to train algorithms to cla
 <br><br>
 **Predicting Reservation Cancellations**
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Predicting_Cancelations.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Predicting_Cancelations1.html)
 <br>
 Skills: Data Validation, EDA, Visualization, Logistic Regression, Support Vector Machines, Decision Trees, Random Forest
 <br>
@@ -113,3 +113,13 @@ Summary: A dashboard built from historical data to quickly access precipitation 
 <br>
 
 ---
+
+### SQL Skill-based projects
+[![Open](https://img.shields.io/badge/SQL-Open_Notebook-black?logo=SQL)](/sql/SQL_SP.html) [![Open](https://img.shields.io/badge/SQL-Open_Notebook-black?logo=SQL)](/sql/SQL_Carbon.html) [![Open](https://img.shields.io/badge/SQL-Open_Notebook-black?logo=SQL)](/sql/SQL_bank.html) [![Open](https://img.shields.io/badge/SQL-Open_Notebook-black?logo=SQL)](/sql/notebook_mp.html)
+<br>
+
+---
+
+
+
+
