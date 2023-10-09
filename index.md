@@ -97,7 +97,7 @@ Skills: Data Validation, EDA, Visualization
 ### Tableau Visualizations
 **Company Revenue Dashboard**
 
-[![Open](https://img.shields.io/badge/SQL-Open_Notebook-black?logo=SQL)](notebook_mp.html)      [![Open](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)]()
+[![Open](https://img.shields.io/badge/SQL-Open_Notebook-blue?logo=postgresql)](notebook_mp.html)      [![Open](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)]()
 
 Summary: An interactive dashboard showing various business KPI's. The data was manipulated and retrieved using SQL and uploaded to Tableau to create visualizations.
 <br>
@@ -107,7 +107,7 @@ Summary: An interactive dashboard showing various business KPI's. The data was m
 ### Excel Visualizations
 **Weather Station Dashboard**
 
-[![Open Notebook](https://img.shields.io/badge/Excel-Open_Outline-blue?logo=excel)](Weather_Dash.pdf)      [![Open Notebook](https://img.shields.io/badge/Excel-Open_Dashboard-blue?logo=excel)](weather_dash.pdf)
+[![Open Notebook](https://img.shields.io/badge/Excel-Open_Outline-blue?logo=microsoftexcel)](Weather_Dash.pdf)      [![Open Notebook](https://img.shields.io/badge/Excel-Open_Dashboard-blue?logo=microsoftexcel)](weather_dash.pdf)
 
 Summary: A dashboard built from historical data to quickly access precipitation and temperature data from past growing seasons. Data was collected from various weather stations through the NOAA API. The data had to be converted from JSON and validated/ manipulated with Excel. The dashboard was created in Excel.
 <br>
@@ -115,7 +115,7 @@ Summary: A dashboard built from historical data to quickly access precipitation 
 ---
 
 ### SQL Skill-based projects
-[![Open](https://img.shields.io/badge/SQL-Open_Notebook-black?logo=SQL)](/sql/SQL_SP.html) [![Open](https://img.shields.io/badge/SQL-Open_Notebook-black?logo=SQL)](/sql/SQL_Carbon.html) [![Open](https://img.shields.io/badge/SQL-Open_Notebook-black?logo=SQL)](/sql/SQL_bank.html) [![Open](https://img.shields.io/badge/SQL-Open_Notebook-black?logo=SQL)](/sql/notebook_mp.html)
+[![Open](https://img.shields.io/badge/SQL-Open_Notebook-blue?logo=postgresql)](/sql/SQL_SP.html) [![Open](https://img.shields.io/badge/SQL-Open_Notebook-blue?logo=postgresql)](/sql/SQL_Carbon.html) [![Open](https://img.shields.io/badge/SQL-Open_Notebook-blue?logo=postgresql)](/sql/SQL_bank.html) [![Open](https://img.shields.io/badge/SQL-Open_Notebook-blue?logo=postgresql)](/sql/notebook_mp.html)
 <br>
 
 ---
