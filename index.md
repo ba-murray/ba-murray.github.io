@@ -40,6 +40,11 @@
 ### Supervised Learning
 A type of machine learning that uses labeled datasets to train algorithms to classify data or predict outcomes.
 <br><br>
+**Analyzing and Predicting Regional Sales**
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](store.html)
+<br>
+
 **Predicting Reservation Cancellations**
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Predicting_Cancelations1.html)
