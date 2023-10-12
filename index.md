@@ -49,6 +49,7 @@ A type of machine learning that uses labeled datasets to train algorithms to cla
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Predicting_Cancelations1.html)
 <br>
+
 Skills: Data Validation, EDA, Visualization, Logistic Regression, Support Vector Machines, Decision Trees, Random Forest
 <br>
 
@@ -61,6 +62,7 @@ A type of machine learning that uses algorithms to analyze and cluster unlabeled
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](PCA1.html)
 <br>
+
 Skills: Data Validation, EDA, Visualization, Standardization, Transformation, Principal Component Analysis 
 <br>
 
@@ -73,6 +75,7 @@ A type of machine learning based on artificial neural networks. A neural network
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Pred_stroke.html)
 <br>
+
 Skills: Data Validation, EDA, Visualization, Neural Network Architecture
 <br>
 
@@ -94,6 +97,7 @@ Skills: Data Validation, EDA, Visualization, Neural Network Architecture
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](NY_Airbnb.html)
 <br>
+
 Skills: Data Validation, EDA, Visualization
 <br>
 
