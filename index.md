@@ -103,6 +103,18 @@ Skills: Data Validation, EDA, Visualization
 
 ---
 
+### Hypothesis Testing
+
+**Marketing Campaigns ANOVA**
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](ANOVA.html)
+<br>
+
+Skills: Data Validation, EDA, Visualization, ANOVA, Pairwise T-Tests, Non- Parametric Tests
+<br>
+
+---
+
 ### Tableau Visualizations
 **Company Revenue Dashboard**
 
