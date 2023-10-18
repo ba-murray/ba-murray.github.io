@@ -118,7 +118,7 @@ Skills: Data Validation, EDA, Visualization, ANOVA, Pairwise T-Tests, Non- Param
 ### Tableau Visualizations
 **Company Revenue Dashboard**
 
-[![Open](https://img.shields.io/badge/SQL-Open_Notebook-blue?logo=postgresql)](notebook_mp.html)      [![Open](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)](Convenience_dash.pdf)
+[![Open](https://img.shields.io/badge/SQL-Open_Notebook-blue?logo=postgresql)](notebook_mp.html)      [![Open](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)](Screen Shot 2023-10-05 at 7.58.38 PM.png)
 
 Summary: An interactive dashboard showing various business KPI's. The data was manipulated and retrieved using SQL and uploaded to Tableau to create visualizations.
 <br>
