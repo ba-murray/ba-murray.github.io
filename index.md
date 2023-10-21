@@ -121,7 +121,7 @@ Skills: Data Validation, EDA, Visualization, ANOVA, Pairwise T-Tests, Non- Param
 [![Open](https://img.shields.io/badge/SQL-Open_Notebook-blue?logo=postgresql)](notebook_mp.html)      [![Open](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)](Screen Shot 2023-10-05 at 7.58.38 PM.png)
 <br><br>
 
-**Sales & Order Dashboards**
+**Business KPI Dashboard**
 
 [![Open](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)](Sales & Order Analysis.pdf)
 <br>
